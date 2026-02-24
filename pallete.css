@@ -1,0 +1,209 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.container{
+      width: 100%;
+  min-height: 100vh;
+ 
+  background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsX29mZmljZV8yOV9taW5pbWFsaXN0X3RvcF92aWV3X3Bob3RvX29mX2Ffd29tYW5fY29zbWV0aV8xOTM4ZTNhMS05ZWI0LTRiYWEtYTJlOS1hYTVhNGUxNzYwZDBfMS5qcGc.jpg);
+  background-size:cover;
+display: flex;
+align-items: center !important;
+flex-direction: column;
+padding-top: 10vh;
+  /* position: absolute; */
+}
+
+
+.circles{
+     max-width: 100%;
+  
+    display: flex;
+ align-items: center;
+    padding:  1em ;
+     margin-top: 30px;
+}
+
+
+
+.apal{
+    min-width:100px ;
+    min-height:90px ;
+    background-color: rgb(133, 2, 92);
+    border: 2px solid white;
+    border-radius: 50px;
+    
+}
+ .bpal{
+     width:90px ;
+    height:90px ;
+   background-color: rgb(185, 2, 127);
+    border: 2px solid white;
+     margin-left: 60vh;
+     border-radius: 50px;
+     position: relative;
+     right: 40px;
+ }
+
+ .cpal{
+     width:90px ;
+    height:90px ;
+    background-color: rgb(225, 4, 155);
+    border: 2px solid white;
+     border-radius: 50px;
+      position: relative;
+     right: 80px;
+ }
+
+ .dpal{
+     width:90px ;
+    height:90px ;
+    background-color: rgb(251, 82, 197);
+    border: 2px solid white;
+     border-radius: 50px;
+      position: relative;
+     right: 120px;
+ }
+
+ .epal{
+     width:90px ;
+    height:90px ;
+    background-color: rgb(166, 93, 143);
+    border: 2px solid white;
+     border-radius: 50px;
+      position: relative;
+     right: 160px;
+ }
+
+ .fpal{
+     width:90px ;
+    height:90px ;
+    background-color: rgb(175, 109, 154);
+    border: 2px solid white;
+     border-radius: 50px;
+      position: relative;
+     right: 200px;
+ }
+
+ .gpal{
+     width:90px ;
+    height:90px ;
+  background-color: rgb(247, 163, 220);
+    border: 2px solid white;
+     border-radius: 50px;
+      position: relative;
+     right: 240px;
+ }
+
+ .hpal{
+     width:90px ;
+    height:90px ;
+  background-color: rgb(248, 70, 221);
+    border: 2px solid white;
+     border-radius: 50px;
+      position: relative;
+     right: 280px;
+ }
+
+ .ipal{
+     width:90px ;
+    height:90px ;
+    background-color: rgb(249, 100, 226);
+    border: 2px solid white;
+     border-radius: 50px;
+      position: relative;
+     right: 320px;
+ }
+
+ .jpal{
+     width:90px ;
+    height:90px ;
+    background-color: rgb(250, 166, 237);
+    border: 2px solid white;
+     border-radius: 50px;
+      position: relative;
+     right: 360px;
+ }
+
+ .kpal{
+     width:90px ;
+    height:90px ;
+    background-color: rgb(238, 89, 238);
+    border: 2px solid white;
+     border-radius: 50px;
+      position: relative;
+     right: 400px;
+ }
+
+ .lpal{
+     width:90px ;
+    height:90px ;
+   background-color: rgb(249, 154, 249);
+    border: 2px solid white;
+     border-radius: 50px;
+      position: relative;
+     right: 440px;
+ }
+
+.text h1{
+   text-decoration: underline;
+  font-size: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
